@@ -1,0 +1,1 @@
+/usr/local/Cellar/gcc/7.3.0_1/bin/gcc-7 -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/ha_0.dir/test-binarize.c.o CMakeFiles/ha_0.dir/binarize.c.o  -o ha_0 

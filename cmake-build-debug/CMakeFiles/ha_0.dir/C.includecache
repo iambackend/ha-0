@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Ouser/CLionProjects/ha-0/binarize.c
+stdio.h
+-
+stdbool.h
+-
+stdlib.h
+-
+binarize.h
+/Users/Ouser/CLionProjects/ha-0/binarize.h
+
+/Users/Ouser/CLionProjects/ha-0/binarize.h
+limits.h
+-
+stdio.h
+-
+
+/Users/Ouser/CLionProjects/ha-0/test-binarize.c
+stdio.h
+-
+binarize.h
+/Users/Ouser/CLionProjects/ha-0/binarize.h
+
